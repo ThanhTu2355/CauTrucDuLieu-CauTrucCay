@@ -1,0 +1,7 @@
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\bin\Debug\CauTrucCay.exe.config
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\bin\Debug\CauTrucCay.exe
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\bin\Debug\CauTrucCay.pdb
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\obj\Debug\CauTrucCay.csproj.AssemblyReference.cache
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\obj\Debug\CauTrucCay.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\obj\Debug\CauTrucCay.exe
+D:\Visual Studio\Git\Git Clone\CauTrucDuLieu\CauTrucCay\obj\Debug\CauTrucCay.pdb
